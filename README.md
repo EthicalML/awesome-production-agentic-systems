@@ -1,11 +1,11 @@
 [![Awesome](https://awesome.re/badge.svg?cacheSeconds=86400)](https://awesome.re)
 [![X](https://img.shields.io/badge/X-%23000000?logo=X&logoColor=white)](https://twitter.com/EthicalML)
 
-# Awesome Production Generative Artificial Intelligence
+# Awesome Production Agentic Systems
 
-This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production generative artificial intelligence systems and applications 🚀
+This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production agentic systems and applications 🚀
 
-You can keep up to date by watching this github repo to get a summary of the new production ML libraries added every month [via releases](https://github.com/EthicalML/awesome-production-genai/releases) 🤩
+You can keep up to date by watching this github repo to get a summary of the new production ML libraries added every month [via releases](https://github.com/EthicalML/awesome-production-agentic-systems/releases) 🤩
 
 ## Quick links to sections on this page
 
@@ -16,24 +16,24 @@ You can keep up to date by watching this github repo to get a summary of the new
 
 ## Contributing to the list
 
-Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-production-genai/blob/main/CONTRIBUTING.md) requirements when submitting a PR to help us keep the list clean and up-to-date - thank you to the community for supporting its steady growth 🚀
+Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-production-agentic-systems/blob/main/CONTRIBUTING.md) requirements when submitting a PR to help us keep the list clean and up-to-date - thank you to the community for supporting its steady growth 🚀
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://api.star-history.com/svg?repos=EthicalML/awesome-production-genai&type=Date&theme=dark
+      https://api.star-history.com/svg?repos=EthicalML/awesome-production-agentic-systems&type=Date&theme=dark
     "
   />
   <source
     media="(prefers-color-scheme: light)"
     srcset="
-      https://api.star-history.com/svg?repos=EthicalML/awesome-production-genai&type=Date
+      https://api.star-history.com/svg?repos=EthicalML/awesome-production-agentic-systems&type=Date
     "
   />
   <img
     alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=EthicalML/awesome-production-genai&type=Date"
+    src="https://api.star-history.com/svg?repos=EthicalML/awesome-production-agentic-systems&type=Date"
   />
 </picture>
 

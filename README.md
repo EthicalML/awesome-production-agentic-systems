@@ -11,8 +11,8 @@ You can keep up to date by watching this github repo to get a summary of the new
 
 | | | | |
 |-|-|-|-|
-| [🤖 Agent Development](#agent-development) | [🕵🏼 Agent Monitoring](#agent-monitoring) | [☎️ Context Management](#context-management) | [🎞️ Memory Management](#memory-management) |
-| [🦺 Model Security](#model-security) | [🎮 Prompt Engineering](#prompt-engineering) | [🎨 Visual Engine](#visual-engine) |
+| [🤖 Agentic Frameworks](#agentic-frameworks) | [🔭 Agent Observability](#agent-observability) | [📡 Agent Protocols](#agent-protocols) | [🎞️ Memory Management](#memory-management) |
+| [🦺 Agent Security](#agent-security) | [🎮 Prompt Engineering](#prompt-engineering) | [🖥️ Agent Interfaces](#agent-interfaces) |
 
 ## Contributing to the list
 
@@ -62,34 +62,28 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 # Main Content
 
-## Agent Development
+## Agentic Frameworks
 
-* [ACP](https://github.com/agentclientprotocol/agent-client-protocol) ![](https://img.shields.io/github/stars/agentclientprotocol/agent-client-protocol.svg?cacheSeconds=86400) - The Agent Client Protocol (ACP) standardizes communication between code editors (interactive programs for viewing and editing source code) and coding agents (programs that use generative AI to autonomously modify code).
 * [ADK](https://github.com/google/adk-python) ![](https://img.shields.io/github/stars/google/adk-python.svg?cacheSeconds=86400) - ADK is Google's Agent Development Kit for Python, a framework for building production-ready AI agents.
 * [Agent Lightning](https://github.com/microsoft/agent-lightning) ![](https://img.shields.io/github/stars/microsoft/agent-lightning.svg?cacheSeconds=86400) - Agent Lightning is a framework for building production-ready AI agents with Lightning AI.
-* [AgentAPI](https://github.com/coder/agentapi) ![](https://img.shields.io/github/stars/coder/agentapi.svg?cacheSeconds=86400) - Control Claude Code, AmazonQ, Opencode, Goose, Aider, Gemini, GitHub Copilot, Sourcegraph Amp, Codex, Auggie, and Cursor CLI with an HTTP API.
-* [AgentLab](https://github.com/ServiceNow/AgentLab) ![](https://img.shields.io/github/stars/ServiceNow/AgentLab.svg?cacheSeconds=86400) - AgentLab is an open-source framework for developing, testing, and benchmarking web agents on diverse tasks, designed for scalability and reproducibility.
 * [AgentKit](https://github.com/inngest/agent-kit) ![](https://img.shields.io/github/stars/inngest/agent-kit.svg?cacheSeconds=86400) - AgentKit help agent developers build multi-agent networks with deterministic routing and rich tooling via MCP.
-* [AgentOps](https://github.com/AgentOps-AI/agentops) ![](https://img.shields.io/github/stars/AgentOps-AI/agentops.svg?cacheSeconds=86400) - AgentOps helps developers build, evaluate, and monitor AI agents from prototype to production.
 * [Agents](https://github.com/livekit/agents) ![](https://img.shields.io/github/stars/livekit/agents.svg?cacheSeconds=86400) - Agents allows users to build AI-driven server programs that can see, hear, and speak in realtime.
 * [AgentScope](https://github.com/modelscope/agentscope) ![](https://img.shields.io/github/stars/modelscope/agentscope.svg?cacheSeconds=86400) - AgentScope is a multi-agent platform designed to empower developers to build multi-agent applications with large-scale models.
+* [Agentset](https://github.com/agentset-ai/agentset) ![](https://img.shields.io/github/stars/agentset-ai/agentset.svg?cacheSeconds=86400) - Agentset is an open-source production-ready RAG platform with built-in agentic reasoning, hybrid search, and multimodal support.
 * [AgentStack](https://github.com/AgentOps-AI/AgentStack) ![](https://img.shields.io/github/stars/AgentOps-AI/AgentStack.svg?cacheSeconds=86400) - AgentStack scaffolds your agent stack.
 * [AgentTorch](https://github.com/AgentTorch/AgentTorch) ![](https://img.shields.io/github/stars/AgentTorch/AgentTorch.svg?cacheSeconds=86400) - AgentTorch is a framework for building and running Large Population Models (LPMs) that enables differentiable simulations over millions of autonomous agents.
-* [Agentset](https://github.com/agentset-ai/agentset) ![](https://img.shields.io/github/stars/agentset-ai/agentset.svg?cacheSeconds=86400) - Agentset is an open-source production-ready RAG platform with built-in agentic reasoning, hybrid search, and multimodal support.
 * [AIOpsLab](https://github.com/microsoft/AIOpsLab) ![](https://img.shields.io/github/stars/microsoft/AIOpsLab.svg?cacheSeconds=86400) - AIOpsLab is a holistic framework to enable the design, development, and evaluation of autonomous AIOps agents.
 * [any-agent](https://github.com/mozilla-ai/any-agent) ![](https://img.shields.io/github/stars/mozilla-ai/any-agent.svg?cacheSeconds=86400) - any-agent is a Python library providing a single interface to different agent frameworks.
-* [AP2](https://github.com/google-agentic-commerce/AP2) ![](https://img.shields.io/github/stars/google-agentic-commerce/AP2.svg?cacheSeconds=86400) - AP2 (Agent Payments Protocol) is a protocol for building secure and interoperable AI-driven payments in agentic commerce workflows.
 * [AutoGen](https://github.com/microsoft/autogen) ![](https://img.shields.io/github/stars/microsoft/autogen.svg?cacheSeconds=86400) - AutoGen is an open-source framework for building AI agent systems.
 * [Chidori](https://github.com/ThousandBirdsInc/chidori) ![](https://img.shields.io/github/stars/ThousandBirdsInc/chidori.svg?cacheSeconds=86400) - Chidori is a reactive runtime that supports building robust AI agents using languages like Node.js, Python, and Rust, with a focus on reactivity and observability in agent workflows.
 * [Composio](https://github.com/ComposioHQ/composio) ![](https://img.shields.io/github/stars/ComposioHQ/composio.svg?cacheSeconds=86400) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling.
 * [Concordia](https://github.com/google-deepmind/concordia) ![](https://img.shields.io/github/stars/google-deepmind/concordia.svg?cacheSeconds=86400) - Concordia is a library to facilitate construction and use of generative agent-based models to simulate interactions of agents in grounded physical, social, or digital space. 
 * [CrewAI](https://github.com/crewAIInc/crewAI) ![](https://img.shields.io/github/stars/crewAIInc/crewAI.svg?cacheSeconds=86400) - CrewAI is a cutting-edge framework for orchestrating role-playing, autonomous AI agents.
 * [deepagents](https://github.com/langchain-ai/deepagents) ![](https://img.shields.io/github/stars/langchain-ai/deepagents.svg?cacheSeconds=86400) - deepagents is a Python package that implements these in a general purpose way so that you can easily create a Deep Agent for your application.
-* [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) ![](https://img.shields.io/github/stars/EvoAgentX/EvoAgentX.svg?cacheSeconds=86400) - EvoAgentX is an open-source framework for building, evaluating, and evolving LLM-based agents or agentic workflows in an automated, modular, and goal-driven manner. 
 * [Eko](https://github.com/FellouAI/eko) ![](https://img.shields.io/github/stars/FellouAI/eko.svg?cacheSeconds=86400) - Eko is a production-ready JavaScript framework that enables developers to create reliable agents, from simple commands to complex workflows.
+* [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) ![](https://img.shields.io/github/stars/EvoAgentX/EvoAgentX.svg?cacheSeconds=86400) - EvoAgentX is an open-source framework for building, evaluating, and evolving LLM-based agents or agentic workflows in an automated, modular, and goal-driven manner. 
 * [GitHub Copilot SDK](https://github.com/github/copilot-sdk) ![](https://img.shields.io/github/stars/github/copilot-sdk.svg?cacheSeconds=86400) - The GitHub Copilot SDK exposes GitHub Copilot's agentic workflows through a programmable SDK for Python, TypeScript, Go, and .NET, providing production-tested agent runtime with planning, tool invocation, and file editing capabilities.
 * [Hephaestus](https://github.com/Ido-Levi/Hephaestus) ![](https://img.shields.io/github/stars/Ido-Levi/Hephaestus.svg?cacheSeconds=86400) - Hephaestus is an open-source, semi-structured agentic framework where AI agents dynamically build workflows and tasks as they discover needs, instead of adhering to predefined plans.
-* [IntellAgent](https://github.com/plurai-ai/intellagent) ![](https://img.shields.io/github/stars/plurai-ai/intellagent.svg?cacheSeconds=86400) - IntellAgent is an advanced multi-agent framework that transforms the evaluation and optimization of conversational agents.
 * [kagent](https://github.com/kagent-dev/kagent) ![](https://img.shields.io/github/stars/kagent-dev/kagent.svg?cacheSeconds=86400) - kagent is a Kubernetes native framework for building AI agents.
 * [KAOS](https://github.com/axsaucedo/kaos) ![](https://img.shields.io/github/stars/axsaucedo/kaos.svg?cacheSeconds=86400) - KAOS is a Kubernetes-native framework for deploying and orchestrating AI agents with tool access, multi-agent coordination, and seamless LLM integration.
 * [LangGraph](https://github.com/langchain-ai/langgraph) ![](https://img.shields.io/github/stars/langchain-ai/langgraph.svg?cacheSeconds=86400) - LangGraph is a library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows.
@@ -105,20 +99,25 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Swarms](https://github.com/kyegomez/swarms) ![](https://img.shields.io/github/stars/kyegomez/swarms.svg?cacheSeconds=86400) - Swarms is an enterprise grade and production ready multi-agent collaboration framework that enables you to orchestrate many agents to work collaboratively at scale to automate real-world activities.
 * [TensorZero](https://github.com/tensorzero/tensorzero) ![](https://img.shields.io/github/stars/tensorzero/tensorzero.svg?cacheSeconds=86400) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
 
-## Agent Monitoring
+## Agent Observability
 
+* [AgentLab](https://github.com/ServiceNow/AgentLab) ![](https://img.shields.io/github/stars/ServiceNow/AgentLab.svg?cacheSeconds=86400) - AgentLab is an open-source framework for developing, testing, and benchmarking web agents on diverse tasks, designed for scalability and reproducibility.
+* [AgentOps](https://github.com/AgentOps-AI/agentops) ![](https://img.shields.io/github/stars/AgentOps-AI/agentops.svg?cacheSeconds=86400) - AgentOps helps developers build, evaluate, and monitor AI agents from prototype to production.
+* [IntellAgent](https://github.com/plurai-ai/intellagent) ![](https://img.shields.io/github/stars/plurai-ai/intellagent.svg?cacheSeconds=86400) - IntellAgent is an advanced multi-agent framework that transforms the evaluation and optimization of conversational agents.
 * [Judgeval](https://github.com/JudgmentLabs/judgeval) ![](https://img.shields.io/github/stars/JudgmentLabs/judgeval.svg?cacheSeconds=86400) - Judgeval is an open-source framework for agent behavior monitoring. Judgeval offers a toolkit to track and judge agent behavior in online and offline setups, enabling you to convert interaction data from production/test environments into improved agents.
 * [Manifest](https://github.com/mnfst/manifest) ![](https://img.shields.io/github/stars/mnfst/manifest.svg?cacheSeconds=86400) - Manifest is open-source observability for AI agents. Track costs, tokens, messages, and performance — entirely on your machine.
 
-## Context Management
+## Agent Protocols
 
 * [A2A](https://github.com/a2aproject/A2A) ![](https://img.shields.io/github/stars/a2aproject/A2A.svg?cacheSeconds=86400) - Agent2Agent (A2A) protocol addresses a critical challenge in the AI landscape: enabling gen AI agents, built on diverse frameworks by different companies running on separate servers, to communicate and collaborate effectively - as agents, not just as tools.
+* [ACP](https://github.com/agentclientprotocol/agent-client-protocol) ![](https://img.shields.io/github/stars/agentclientprotocol/agent-client-protocol.svg?cacheSeconds=86400) - The Agent Client Protocol (ACP) standardizes communication between code editors (interactive programs for viewing and editing source code) and coding agents (programs that use generative AI to autonomously modify code).
+* [AgentAPI](https://github.com/coder/agentapi) ![](https://img.shields.io/github/stars/coder/agentapi.svg?cacheSeconds=86400) - Control Claude Code, AmazonQ, Opencode, Goose, Aider, Gemini, GitHub Copilot, Sourcegraph Amp, Codex, Auggie, and Cursor CLI with an HTTP API.
 * [agents.json](https://github.com/wild-card-ai/agents-json) ![](https://img.shields.io/github/stars/wild-card-ai/agents-json.svg?cacheSeconds=86400) - The agents.json Specification is an open specification that formally describes contracts for API and agent interactions, built on top of the OpenAPI standard.
 * [ANP](https://github.com/agent-network-protocol/AgentNetworkProtocol) ![](https://img.shields.io/github/stars/agent-network-protocol/AgentNetworkProtocol.svg?cacheSeconds=86400) - AgentNetworkProtocol (ANP) is an open-source communication standard designed to enable seamless connectivity and collaboration between intelligent agents, positioning itself as the foundational protocol for agent-to-agent interactions in the emerging AI ecosystem.
-* [arcade-mcp](https://github.com/ArcadeAI/arcade-mcp one-liner) ![](https://img.shields.io/github/stars/ArcadeAI/arcade-mcp one-liner.svg?cacheSeconds=86400) - arcade-mcp tool is a secure Python framework for building, authenticating, and deploying AI agent tools (MCP servers) at scale.
+* [AP2](https://github.com/google-agentic-commerce/AP2) ![](https://img.shields.io/github/stars/google-agentic-commerce/AP2.svg?cacheSeconds=86400) - AP2 (Agent Payments Protocol) is a protocol for building secure and interoperable AI-driven payments in agentic commerce workflows.
+* [arcade-mcp](https://github.com/ArcadeAI/arcade-mcp) ![](https://img.shields.io/github/stars/ArcadeAI/arcade-mcp.svg?cacheSeconds=86400) - arcade-mcp tool is a secure Python framework for building, authenticating, and deploying AI agent tools (MCP servers) at scale.
 * [FastMCP](https://github.com/jlowin/fastmcp) ![](https://img.shields.io/github/stars/jlowin/fastmcp.svg?cacheSeconds=86400) - FastMCP is an open-source Python framework designed to simplify the creation and management of servers and clients that adhere to the Model Context Protocol (MCP).
 * [MCP Inspector](https://github.com/modelcontextprotocol/inspector) ![](https://img.shields.io/github/stars/modelcontextprotocol/inspector.svg?cacheSeconds=86400) - MCP inspector is a developer tool for testing and debugging MCP servers.
-* [mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) ![](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan.svg?cacheSeconds=86400) - mcp-scan is an MCP security scanning tool for local and remote MCP Servers.
 * [UCP](https://github.com/Universal-Commerce-Protocol/ucp) ![](https://img.shields.io/github/stars/Universal-Commerce-Protocol/ucp.svg?cacheSeconds=86400) - UCP (Universal Commerce Protocol) is an open standard enabling interoperability between commerce entities and AI agents to facilitate seamless, agentic commerce integrations.
 
 ## Memory Management
@@ -131,11 +130,13 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [supermemory](https://github.com/supermemoryai/supermemory) ![](https://img.shields.io/github/stars/supermemoryai/supermemory.svg?cacheSeconds=86400) - supermemory intelligently extracts information from your conversations and apps and pieces together connections between memories to deliver seamless user experience.
 * [Zep](https://github.com/getzep/zep) ![](https://img.shields.io/github/stars/getzep/zep.svg?cacheSeconds=86400) - Zep is a memory platform for AI agents that learns from user interactions and business data.
 
-## Model Security
-* [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) ![](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard.svg?cacheSeconds=86400) - AI-Infra-Guard is an infrastructure security tool for AI systems.
+## Agent Security
+
 * [Agentic Radar](https://github.com/splx-ai/agentic-radar) ![](https://img.shields.io/github/stars/splx-ai/agentic-radar.svg?cacheSeconds=86400) - Agentic Radar is a security scanner for LLM agentic workflows for potential vulnerabilities.
-* [DeepTeam](https://github.com/msoedov/agentic_security) ![](https://img.shields.io/github/stars/msoedov/agentic_security.svg?cacheSeconds=86400) - Agentic Security is a vulnerability scanner for agentic workflows, protecting AI systems from jailbreaks, fuzzing, and multimodal attacks.
+* [Agentic Security](https://github.com/msoedov/agentic_security) ![](https://img.shields.io/github/stars/msoedov/agentic_security.svg?cacheSeconds=86400) - Agentic Security is a vulnerability scanner for agentic workflows, protecting AI systems from jailbreaks, fuzzing, and multimodal attacks.
+* [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) ![](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard.svg?cacheSeconds=86400) - AI-Infra-Guard is an infrastructure security tool for AI systems.
 * [DeepTeam](https://github.com/confident-ai/deepteam) ![](https://img.shields.io/github/stars/confident-ai/deepteam.svg?cacheSeconds=86400) - DeepTeam is a simple-to-use, open-source LLM red teaming framework, for penetration testing and safe guarding large-language model systems.
+* [mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) ![](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan.svg?cacheSeconds=86400) - mcp-scan is an MCP security scanning tool for local and remote MCP Servers.
 * [promptfoo](https://github.com/promptfoo/promptfoo) ![](https://img.shields.io/github/stars/promptfoo/promptfoo.svg?cacheSeconds=86400) - promptfoo is an LLM red teaming and evaluation framework for testing jailbreaks, prompt injection, and vulnerabilities with adversarial attacks and CI/CD integration.
 * [ps-fuzz](https://github.com/prompt-security/ps-fuzz) ![](https://img.shields.io/github/stars/prompt-security/ps-fuzz.svg?cacheSeconds=86400) - ps-fuzz is a tool to test and harden GenAI system prompts against security vulnerabilities and adversarial attacks.
 * [Purple Llama](https://github.com/meta-llama/PurpleLlama) ![](https://img.shields.io/github/stars/meta-llama/PurpleLlama.svg?cacheSeconds=86400) - Purple Llama is a set of tools to assess and improve LLM security for building responsible GenAI models.
@@ -152,7 +153,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [PromptSource](https://github.com/bigscience-workshop/promptsource) ![](https://img.shields.io/github/stars/bigscience-workshop/promptsource.svg?cacheSeconds=86400) - PromptSource is a toolkit for creating, sharing and using natural language prompts. Contains a growing collection of prompts (P3: Public Pool of Prompts) written in Jinja templating language.
 * [Prompty](https://github.com/microsoft/prompty) ![](https://img.shields.io/github/stars/microsoft/prompty.svg?cacheSeconds=86400) - Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for AI applications. An asset class and format for LLM prompts designed to enhance observability, understandability, and portability.
 
-## Visual Engine
+## Agent Interfaces
 
 * [A2UI](https://github.com/google/A2UI) ![](https://img.shields.io/github/stars/google/A2UI.svg?cacheSeconds=86400) - A2UI is a framework for building agent-to-UI interactions.
 * [Chat UI](https://github.com/huggingface/chat-ui) ![](https://img.shields.io/github/stars/huggingface/chat-ui.svg?cacheSeconds=86400) - Chat UI is an open-source web application framework that provides the frontend interface and backend infrastructure for building conversational AI chatbots, serving as the codebase behind their HuggingChat platform.

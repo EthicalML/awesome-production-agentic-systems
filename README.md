@@ -132,6 +132,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 ## Agent Security
 
+* [Asqav](https://github.com/jagmarques/asqav-sdk) ![](https://img.shields.io/github/stars/jagmarques/asqav-sdk.svg?cacheSeconds=86400) - Asqav is an open-source Python SDK for AI agent audit trails and EU AI Act compliance, with quantum-safe tamper-proof logging and out-of-the-box support for LangChain and CrewAI.
 * [Agentic Radar](https://github.com/splx-ai/agentic-radar) ![](https://img.shields.io/github/stars/splx-ai/agentic-radar.svg?cacheSeconds=86400) - Agentic Radar is a security scanner for LLM agentic workflows for potential vulnerabilities.
 * [Agentic Security](https://github.com/msoedov/agentic_security) ![](https://img.shields.io/github/stars/msoedov/agentic_security.svg?cacheSeconds=86400) - Agentic Security is a vulnerability scanner for agentic workflows, protecting AI systems from jailbreaks, fuzzing, and multimodal attacks.
 * [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) ![](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard.svg?cacheSeconds=86400) - AI-Infra-Guard is an infrastructure security tool for AI systems.

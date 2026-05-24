@@ -159,3 +159,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [A2UI](https://github.com/google/A2UI) ![](https://img.shields.io/github/stars/google/A2UI.svg?cacheSeconds=86400) - A2UI is a framework for building agent-to-UI interactions.
 * [Chat UI](https://github.com/huggingface/chat-ui) ![](https://img.shields.io/github/stars/huggingface/chat-ui.svg?cacheSeconds=86400) - Chat UI is an open-source web application framework that provides the frontend interface and backend infrastructure for building conversational AI chatbots, serving as the codebase behind their HuggingChat platform.
 * [ComfyUI](https://github.com/comfyanonymous/ComfyUI) ![](https://img.shields.io/github/stars/comfyanonymous/ComfyUI.svg?cacheSeconds=86400) - ComfyUI is a node-based interface and inference engine for generative AI, specifically designed to work with Stable Diffusion and other AI models. It allows users to create complex workflows for image, video, and other content generation through a visual, graph-like interface.
+
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) — Real-time AI Agent Monitoring Dashboard for OpenClaw with token usage, session tracking, 7-day trends
+

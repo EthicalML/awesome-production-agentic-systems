@@ -106,6 +106,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [IntellAgent](https://github.com/plurai-ai/intellagent) ![](https://img.shields.io/github/stars/plurai-ai/intellagent.svg?cacheSeconds=86400) - IntellAgent is an advanced multi-agent framework that transforms the evaluation and optimization of conversational agents.
 * [Judgeval](https://github.com/JudgmentLabs/judgeval) ![](https://img.shields.io/github/stars/JudgmentLabs/judgeval.svg?cacheSeconds=86400) - Judgeval is an open-source framework for agent behavior monitoring. Judgeval offers a toolkit to track and judge agent behavior in online and offline setups, enabling you to convert interaction data from production/test environments into improved agents.
 * [Manifest](https://github.com/mnfst/manifest) ![](https://img.shields.io/github/stars/mnfst/manifest.svg?cacheSeconds=86400) - Manifest is open-source observability for AI agents. Track costs, tokens, messages, and performance — entirely on your machine.
+* [Tuning Engines](https://www.tuningengines.com/) - Tuning Engines is an AI control and observability layer for production agents, capturing model, MCP, skill, workflow, policy, approval, state-reference, and outcome events while the agent framework keeps ownership of execution.
 
 ## Agent Protocols
 

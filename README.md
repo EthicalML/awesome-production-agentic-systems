@@ -142,6 +142,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [ps-fuzz](https://github.com/prompt-security/ps-fuzz) ![](https://img.shields.io/github/stars/prompt-security/ps-fuzz.svg?cacheSeconds=86400) - ps-fuzz is a tool to test and harden GenAI system prompts against security vulnerabilities and adversarial attacks.
 * [Purple Llama](https://github.com/meta-llama/PurpleLlama) ![](https://img.shields.io/github/stars/meta-llama/PurpleLlama.svg?cacheSeconds=86400) - Purple Llama is a set of tools to assess and improve LLM security for building responsible GenAI models.
 * [Rogue](https://github.com/qualifire-dev/rogue) ![](https://img.shields.io/github/stars/qualifire-dev/rogue.svg?cacheSeconds=86400) - Rogue is an AI agent evaluator and red team platform for testing agents against business policies and security vulnerabilities.
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for AI agent wallets on Solana. Provides `score_agent`, `preflight_check`, and `get_trust_receipt` tools for verifying counterparty identity before x402 micropayments. Free streamable-http MCP endpoint.
 
 ## Prompt Engineering
 

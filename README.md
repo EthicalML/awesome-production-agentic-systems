@@ -64,6 +64,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 ## Agentic Frameworks
 
+* [5dive](https://github.com/5dive-ai/5dive) ![](https://img.shields.io/github/stars/5dive-ai/5dive.svg?cacheSeconds=86400) - 5dive is a self-hosted platform for running a company of AI agents on your own server, with per-agent models and memory, an org chart with a shared backlog, and human escalation over Telegram. Multi-runtime (Claude Code, Codex, Grok, Antigravity, opencode).
 * [ADK](https://github.com/google/adk-python) ![](https://img.shields.io/github/stars/google/adk-python.svg?cacheSeconds=86400) - ADK is Google's Agent Development Kit for Python, a framework for building production-ready AI agents.
 * [Agent Lightning](https://github.com/microsoft/agent-lightning) ![](https://img.shields.io/github/stars/microsoft/agent-lightning.svg?cacheSeconds=86400) - Agent Lightning is a framework for building production-ready AI agents with Lightning AI.
 * [AgentKit](https://github.com/inngest/agent-kit) ![](https://img.shields.io/github/stars/inngest/agent-kit.svg?cacheSeconds=86400) - AgentKit help agent developers build multi-agent networks with deterministic routing and rich tooling via MCP.
